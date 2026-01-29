@@ -110,5 +110,5 @@ SIGNATEで開催された三菱UFJ Basic Campコンペティションにおけ�
 
 ROI（費用対効果）: ターゲット層への重点的なケアにより離職を防止できた場合、年間約5,860万円の採用コスト削減が見込めると試算。
 
-詳細資料: 分析の詳細および提案書は HR_Attrition_Analysis フォルダ内のPDF資料をご確認ください。
+詳細資料: 分析の詳細および提案書は HR_Attrition_AnalysisのPDF資料、HR_Attrition_Analysis.ipynbをご確認ください。
 
