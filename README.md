@@ -79,11 +79,6 @@ SIGNATEで開催された三菱UFJ Basic Campコンペティションにおけ�
 4. OOFで最適閾値を決定し、Test予測を二値化（0/1）。
 5. 提出用CSVを出力。
 
-```python
-# 提出用コードの抜粋
-submit = pd.read_csv("sample_submit.csv", header=None)
-submit[1] = (predict >= best_thr).astype(int)
-submit.to_csv("submission.csv", index=False, header=None)
 
 ###Project 2: 人事データ分析による離職防止提案
 ***（東京大学 松尾研究室 GCI 最終課題）***
