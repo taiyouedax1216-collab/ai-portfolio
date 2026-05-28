@@ -5,7 +5,7 @@
 ---
 
 ## Project 1: 銀行ローンのデフォルト予測モデル
-**（SIGNATE "三菱UFJ Basic Camp" コンペティション）**
+**（SIGNATE "三菱UFJ Basic Camp" コンペティション5位入賞）**
 
 ### 概要
 SIGNATEで2025年8月に開催された三菱UFJ Basic Campコンペティションにおける作成モデルです。
